@@ -26,7 +26,7 @@ There is a good github tutorial: [https://rogerdudler.github.io/git-guide/index.
 
 ## What are the aims of this course?
 
-Joyful, happy, sad, angry, disgusting, painful, bored... we experience these emotions all the time, and these experience keep changing every moment. How can we "define" emotions? How can we "study" emotions? What are the "bodily factors" that influence emotions? How we "measure" bodily response of emotions? What are the "brain representations" of emotions? Are emotions same with affect or feelings? How can we model the "dynamics" of emotions? What are the underlying problems in emotional disorders, like anxiety and depression? etc. There are so many interesting questions about emotions. 
+Joyful, happy, sad, angry, disgusting, painful, bored... we experience these emotions all the time, and these experiences keep changing every moment. How can we "define" emotions? How can we "study" emotions? What are the "bodily factors" that influence emotions? How do we "measure" bodily response to emotions? What are the "brain representations" of emotions? Are emotions the same as affect or feelings? How can we model the "dynamics" of emotions? What are the underlying problems in emotional disorders, like anxiety and depression? etc. There are so many interesting questions about emotions. 
 
 In this class, we will learn 1) key topics of affective neuroscience. 2) We will also invite some researchers to hear more about ongoing studies on pain and emotions and 3) have some debate sessions on controversial topics. 
 
@@ -38,57 +38,58 @@ This class uses the flipped classroom format, which means that I will assign vid
 
 This class will use absolute evaluation, which does not mean that you will get a good grade no matter what. Rather, it means that your learning will be evaluated strictly based on the following standard:
 
-1. Attendance (30%): again, attendance is important
-2. Term project (15%): we will do a term project, which will start around the mid-term season and finish before the final exam
-3. Debate (10%): we will do some debate sessions. Each individual will participate in the debate once. 
-3. Final exam (15%): there will be a final exam (multiple choice)
-4. Class preparation (15%): you need to watch lectures (or read an assigned article) before coming to the class and **submit one or two discussion questions** 
-5. Discussion participation (15%): actively participate in class discussion
+1. Attendance (40%): Again, attendance is important
+2. Term project (15%): We will do a term project, which will start around the mid-term season and finish before the final exam
+3. Paper presentation & Debate (15%): Graduate students will do the journal club, and undergrad students will do debates. 
+4. Class preparation (15%): You need to watch lectures (or read an assigned article) before coming to the class and **submit one discussion question** for every video lecture
+5. Discussion participation (15%): Please participate in class discussion actively
 
 Grade criteria: 
-A+: >95,
-A : >90,
-B+: >85,
-B : >80,
-C+: >75,
-C : >70
+A+: > 95,
+A: > 90,
+B+: > 85,
+B: > 80,
+C+: > 75,
+C: > 70
 
+## Response to video lectures
+
+Please submit your discussion questions and comments for each video lecture through [this google form](https://forms.gle/JqmR8zt5ePmZ3XY37)
 
 ## Term project
 
-Develop your own research idea related to affective neuroscience. You can choose any topics within the area of affective neuroscience. You will have two times of presentation opportunity-one for research background (similar to the introduction section of a research article), and the other for experimental design (similar to the method section of a research article).  
+Develop your own research idea related to affective neuroscience. You can choose any topic within the area of affective neuroscience. You will have two times of presentation opportunity--one for research background (similar to the introduction section of a research article), and the other for experimental design (similar to the method section of a research article). If you are conducting research projects for your dissertation, you can use this as an opportunity to write parts of your dissertation. I am also considering forming teams (of one graduate student and one undergrad student). Let's discuss this in the class.
 
-## Schedule (This can be changed before the semester starts)
 
-Week  | Topic | Video lecture | Reading | Debate | Lecture or guest lecture
+
+## Schedule 
+
+Week  | Topic | Video lecture | Reading (not mandatory) | Lecture, Paper presentation, or Debate
 ------| ----- | ----- | ----- | ----- | -----
-Week 1 (8/28) | What is affective neuroscience? | TED talks by two affective neuroscientists [Jaak Panksepp](https://www.youtube.com/watch?v=65e2qScV_K8) and [Lisa F. Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ) | PAN Ch3 | - | Overview
-Week 2 (9/4) | No class | 추석 | - | - | -
-Week 3 (9/11) | Basic emotion theories: From psychology to neuroscience | [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) | - | Affective neuroscience 
-Week 4 (9/18) | Brain anatomy and affective brain systems | [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9) | PAN Ch4, Ch6, Price2012; Saper2002 | - | Brain anatomy and affective brain systems (1)
+Week 1 (8/28) | What is affective neuroscience? | TED talks by two affective neuroscientists [Jaak Panksepp](https://www.youtube.com/watch?v=65e2qScV_K8) and [Lisa F. Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ) | PAN Ch3 | Affective Neuroscience and the class overview (L01-02)
+Week 2 (9/4) | Basic emotion theories: From psychology to neuroscience | 1) [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) 2) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) | PP1
+Week 3 (9/11) | Brain anatomy and affective brain systems | 1) [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9), 2) [Affective brain systems](https://youtube.com/live/j_YeFa_SVDM?feature=share)| PAN Ch4, Ch6, Price2012; Saper2002 | PP2
+Week 4 (9/18) | Pleasure and Desire | 1) [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I), 2) [Pleasure and Desire](https://www.youtube.com/watch?v=XUs2ZYGRyJQ) | Berridge2019, Berridge2015 | PP3
 Week 5 (9/25) | No class | 건학기념일 | - |
-Week 6 (10/2) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | Melzack 1999, Tracey 2010 | - | Affective brain systems(2), Pain(1) <br> Guest: Jaejoong Lee
+Week 6 (10/2) | Touch and Nociception | 1) [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI), 2) [Touch and Nociception](https://www.youtube.com/watch?v=oKZElwPTKzg) | Melzack 1999, Tracey 2010 | PP4
 Week 7 (10/9) | No class | 한글날 | - |
-Week 8 (10/16) | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system | -
-Week 9 (10/23) | Emotion regulation, embodiment | [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8) | Gross2011, Ashar2017 | - | -
-Week 10 (10/30) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | Berridge2019, Berridge2015 | - | -
-Week 11 (11/6) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | Debate 2: Pleasure systems in the brain | 
-Week 12 (11/13) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 |- | -
-Week 13 (11/20) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | - | -
-Week 14 (11/27) | TBD | - | - | - | -
-Week 15 (12/4) | TBD | - | - | - | -
-Week 16 (12/11) | TBD | - | - | - | -
+Week 8 (10/16) | Pain | [Pain](https://www.youtube.com/watch?v=XpFLNYj9gtc) | -  | PP5 |
+Week 9 (10/23) | Pain regulation | 1) Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) 2) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system | 
+Week 10 (10/30) | Emotion | [Emotion](https://youtube.com/live/IgvoaKyH8GE) | -  | PP6
+Week 11 (11/6) | Emotion regulation, embodiment | 1) [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8), 2) [Emotion regulation](https://www.youtube.com/watch?v=1miaC6cUobk),  | Gross2011, Ashar2017 | Debate 2: Pleasure systems in the brain | 
+Week 12 (11/13) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | PP7
+Week 13 (11/20) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 | PP8
+Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9
+Week 15 (12/4) | Rest of paper presentations | - | - | PP10~? 
+Week 16 (12/11) | Term paper | - | - | - 
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
 
 ## Books
 
 Baumeister's Social Psychology (BSP)
-
 Panksepp Affective Neuroscience (PAN)
-
 Lisa Feldman Barrett "How Emotions Are Made"
-
 Ralph Adolphs "The neuroscience of emotion"
 
 ## Some extra lectures
@@ -110,8 +111,22 @@ Roy Baumeister I: [Identity, the Self, and the Meaning of Life](https://www.yout
 Roy Baumeister II: [Willpower Violence and Free Will](https://www.youtube.com/watch?v=3x7-yqhyzp8)
 Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/watch?v=wHwMFpSu53k)
 
-## Papers (not required)
+## Papers
+- [W2: PP1] Schiller et al.(2022). The Human Affectome. https://doi.org/10.31234/osf.io/9nu32
+- [W3: PP2] Malezieux et al. (2023). Neural Circuits for Emotion. Annual Review of Neuroscience. https://doi.org/10.1146/annurev-neuro-111020-103314
+- [W4: PP3] Dayan, P. (2022). “Liking” as an early and editable draft of long-run affective value. PLoS Biology, 20(1), e3001476.
+- [W6: PP4] Seymour, B. (2019). Pain: A Precision Signal for Reinforcement Learning and Control. Neuron, 101(6), 1029–1041.
+- [W8: PP5] Büchel, C. (2023). The role of expectations, control and reward in the development of pain persistence based on a unified model. eLife, 12. https://doi.org/10.7554/eLife.81795
+- [W10: PP6] Pessoa, L. (2017). A Network Model of the Emotional Brain. Trends in Cognitive Sciences, 21(5), 357–371.
+- [W12: PP7] Hsueh et al.(2023). Cardiogenic control of affective behavioural state. Nature, 1–8.
+- [W13: PP8] van Kleef, G. A., & Côté, S. (2022). The Social Effects of Emotions. Annual Review of Psychology, 73, 629–658.
+- [W14: PP9] Bennett et al. (2020). A model of mood as integrated advantage. https://doi.org/10.31234/osf.io/dzsme
+- [W15: PP10-?]
+  - Bo et al. (2023). Deconstructing the brain bases of emotion regulation: A systems-identification approach using Bayes factors. In bioRxiv (p. 2023.04.26.538485). https://doi.org/10.1101/2023.04.26.538485
+  - Seymour et al. (2023). Post-injury pain and behaviour: a control theory perspective. Nature Reviews. Neuroscience. https://doi.org/10.1038/s41583-023-00699-5
+  - Harrison et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron, 0(0). https://doi.org/10.1016/j.neuron.2021.09.045
 
+Previously covered:
 - Price2012(R): Neural circuits underlying the pathophysiology of mood disorders, TICS
 - Saper2002(R): The central autonomic nervous system: Conscious Visceral Perception and Autonomic Pattern Generation, Annu Rev Neurosci
 - Berridge2015(R): Pleasure Systems in the Brain, Neuron
@@ -146,7 +161,6 @@ Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/
 - Zaki2012(R): The neuroscience of empathy: progress, pitfalls and promise. Nature Neuroscience
 
 Further readings:
-
 - Clore & Ortony
 - Melzack 1965
 - Ashar 2017
