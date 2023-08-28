@@ -65,7 +65,7 @@ Develop your own research idea related to affective neuroscience. You can choose
 ## Schedule 
 
 Week  | Topic | Video lecture | Reading (not mandatory) | Lecture, Paper presentation, or Debate
-------| ----- | ----- | ----- | ----- | -----
+------| ----- | ----- | ----- | ----- 
 Week 1 (8/28) | What is affective neuroscience? | TED talks by two affective neuroscientists [Jaak Panksepp](https://www.youtube.com/watch?v=65e2qScV_K8) and [Lisa F. Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ) | PAN Ch3 | Affective Neuroscience and the class overview (L01-02)
 Week 2 (9/4) | Basic emotion theories: From psychology to neuroscience | 1) [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) 2) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) | PP1
 Week 3 (9/11) | Brain anatomy and affective brain systems | 1) [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9), 2) [Affective brain systems](https://youtube.com/live/j_YeFa_SVDM?feature=share)| PAN Ch4, Ch6, Price2012; Saper2002 | PP2
