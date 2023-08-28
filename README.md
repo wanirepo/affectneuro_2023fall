@@ -67,20 +67,20 @@ Develop your own research idea related to affective neuroscience. You can choose
 Week  | Topic | Video lecture | Reading (not mandatory) | Lecture, Paper presentation, or Debate
 ------| ----- | ----- | ----- | ----- 
 Week 1 (8/28) | What is affective neuroscience? | TED talks by two affective neuroscientists [Jaak Panksepp](https://www.youtube.com/watch?v=65e2qScV_K8) and [Lisa F. Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ) | PAN Ch3 | Affective Neuroscience and the class overview (L01-02)
-Week 2 (9/4) | Basic emotion theories: From psychology to neuroscience | 1) [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) 2) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) | PP1
-Week 3 (9/11) | Brain anatomy and affective brain systems | 1) [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9), 2) [Affective brain systems](https://youtube.com/live/j_YeFa_SVDM?feature=share)| PAN Ch4, Ch6, Price2012; Saper2002 | PP2
-Week 4 (9/18) | Pleasure and Desire | 1) [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I), 2) [Pleasure and Desire](https://www.youtube.com/watch?v=XUs2ZYGRyJQ) | Berridge2019, Berridge2015 | PP3
+Week 2 (9/4) | Basic emotion theories: From psychology to neuroscience | 1) [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) 2) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) | PP1 (이나현)
+Week 3 (9/11) | Brain anatomy and affective brain systems | 1) [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9), 2) [Affective brain systems](https://youtube.com/live/j_YeFa_SVDM?feature=share)| PAN Ch4, Ch6, Price2012; Saper2002 | PP2 (윤재성)
+Week 4 (9/18) | Pleasure and Desire | 1) [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I), 2) [Pleasure and Desire](https://www.youtube.com/watch?v=XUs2ZYGRyJQ) | Berridge2019, Berridge2015 | PP3 (왕린)
 Week 5 (9/25) | No class | 건학기념일 | - |
-Week 6 (10/2) | Touch and Nociception | 1) [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI), 2) [Touch and Nociception](https://www.youtube.com/watch?v=oKZElwPTKzg) | Melzack 1999, Tracey 2010 | PP4
+Week 6 (10/2) | Touch and Nociception | 1) [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI), 2) [Touch and Nociception](https://www.youtube.com/watch?v=oKZElwPTKzg) | Melzack 1999, Tracey 2010 | PP4 (박미주)
 Week 7 (10/9) | No class | 한글날 | - |
-Week 8 (10/16) | Pain | [Pain](https://www.youtube.com/watch?v=XpFLNYj9gtc) | -  | PP5 |
-Week 9 (10/23) | Pain regulation | 1) Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) 2) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system | 
-Week 10 (10/30) | Emotion | [Emotion](https://youtube.com/live/IgvoaKyH8GE) | -  | PP6
-Week 11 (11/6) | Emotion regulation, embodiment | 1) [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8), 2) [Emotion regulation](https://www.youtube.com/watch?v=1miaC6cUobk),  | Gross2011, Ashar2017 | Debate 2: Pleasure systems in the brain | 
-Week 12 (11/13) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | PP7
-Week 13 (11/20) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 | PP8
-Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9
-Week 15 (12/4) | Rest of paper presentations | - | - | PP10~? 
+Week 8 (10/16) | Pain | [Pain](https://www.youtube.com/watch?v=XpFLNYj9gtc) | -  | PP5 (박영은) 
+Week 9 (10/23) | Pain regulation | 1) Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) 2) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system (박철현, 이상기, 최지운)| 
+Week 10 (10/30) | Emotion | [Emotion](https://youtube.com/live/IgvoaKyH8GE) | -  | PP6 (정의진)
+Week 11 (11/6) | Emotion regulation, embodiment | 1) [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8), 2) [Emotion regulation](https://www.youtube.com/watch?v=1miaC6cUobk),  | Gross2011, Ashar2017 | Debate 2: Pleasure systems in the brain (유영준, 양지혜, 이채연)| 
+Week 12 (11/13) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | PP7 (Steve)
+Week 13 (11/20) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 | PP8 (김학인)
+Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9 (이새현)
+Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈, Harrison et al.), PP11 (이우경, Bo et al.)
 Week 16 (12/11) | Term paper | - | - | - 
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
@@ -129,6 +129,7 @@ Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/
 
 
 Previously covered:
+
 - Price2012(R): Neural circuits underlying the pathophysiology of mood disorders, TICS
 - Saper2002(R): The central autonomic nervous system: Conscious Visceral Perception and Autonomic Pattern Generation, Annu Rev Neurosci
 - Berridge2015(R): Pleasure Systems in the Brain, Neuron
@@ -163,6 +164,7 @@ Previously covered:
 - Zaki2012(R): The neuroscience of empathy: progress, pitfalls and promise. Nature Neuroscience
 
 Further readings:
+
 - Clore & Ortony
 - Melzack 1965
 - Ashar 2017
