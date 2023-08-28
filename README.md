@@ -112,19 +112,21 @@ Roy Baumeister II: [Willpower Violence and Free Will](https://www.youtube.com/wa
 Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/watch?v=wHwMFpSu53k)
 
 ## Papers
-- [W2: PP1] Schiller et al.(2022). The Human Affectome. https://doi.org/10.31234/osf.io/9nu32
-- [W3: PP2] Malezieux et al. (2023). Neural Circuits for Emotion. Annual Review of Neuroscience. https://doi.org/10.1146/annurev-neuro-111020-103314
-- [W4: PP3] Dayan, P. (2022). “Liking” as an early and editable draft of long-run affective value. PLoS Biology, 20(1), e3001476.
-- [W6: PP4] Seymour, B. (2019). Pain: A Precision Signal for Reinforcement Learning and Control. Neuron, 101(6), 1029–1041.
-- [W8: PP5] Büchel, C. (2023). The role of expectations, control and reward in the development of pain persistence based on a unified model. eLife, 12. https://doi.org/10.7554/eLife.81795
-- [W10: PP6] Pessoa, L. (2017). A Network Model of the Emotional Brain. Trends in Cognitive Sciences, 21(5), 357–371.
-- [W12: PP7] Hsueh et al.(2023). Cardiogenic control of affective behavioural state. Nature, 1–8.
-- [W13: PP8] van Kleef, G. A., & Côté, S. (2022). The Social Effects of Emotions. Annual Review of Psychology, 73, 629–658.
-- [W14: PP9] Bennett et al. (2020). A model of mood as integrated advantage. https://doi.org/10.31234/osf.io/dzsme
+- [W2: PP1] Schiller et al.(2022). The Human Affectome. [https://doi.org/10.31234/osf.io/9nu32](https://doi.org/10.31234/osf.io/9nu32)
+- [W3: PP2] Malezieux et al. (2023). Neural Circuits for Emotion. Annual Review of Neuroscience. [https://doi.org/10.1146/annurev-neuro-111020-103314](https://doi.org/10.1146/annurev-neuro-111020-103314)
+- [W4: PP3] Dayan, P. (2022). “Liking” as an early and editable draft of long-run affective value. PLoS Biology, 20(1), e3001476. [https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001476](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001476)
+- [W6: PP4] Seymour, B. (2019). Pain: A Precision Signal for Reinforcement Learning and Control. Neuron, 101(6), 1029–1041. [https://www.sciencedirect.com/science/article/pii/S0896627319300820](https://www.sciencedirect.com/science/article/pii/S0896627319300820)
+- [W8: PP5] Büchel, C. (2023). The role of expectations, control and reward in the development of pain persistence based on a unified model. eLife, 12. [https://doi.org/10.7554/eLife.81795](https://doi.org/10.7554/eLife.81795)
+- [W10: PP6] Čeko, M., Kragel, P. A., Woo, C.-W., López-Solà, M., & Wager, T. D. (2022). Common and stimulus-type-specific brain representations of negative affect. Nature Neuroscience, 1–11. [https://www.nature.com/articles/s41593-022-01082-w](https://www.nature.com/articles/s41593-022-01082-w)
+- [W12: PP7] Hsueh et al.(2023). Cardiogenic control of affective behavioural state. Nature, 1–8. [https://www.nature.com/articles/s41586-023-05748-8](https://www.nature.com/articles/s41586-023-05748-8)
+- [W13: PP8] van Kleef, G. A., & Côté, S. (2022). The Social Effects of Emotions. Annual Review of Psychology, 73, 629–658. [https://doi.org/10.1146/annurev-psych-020821-010855](https://doi.org/10.1146/annurev-psych-020821-010855)
+- [W14: PP9] Bennett et al. (2020). A model of mood as integrated advantage. [https://doi.org/10.31234/osf.io/dzsme](https://doi.org/10.31234/osf.io/dzsme)
 - [W15: PP10-?]
-  - Bo et al. (2023). Deconstructing the brain bases of emotion regulation: A systems-identification approach using Bayes factors. In bioRxiv (p. 2023.04.26.538485). https://doi.org/10.1101/2023.04.26.538485
-  - Seymour et al. (2023). Post-injury pain and behaviour: a control theory perspective. Nature Reviews. Neuroscience. https://doi.org/10.1038/s41583-023-00699-5
-  - Harrison et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron, 0(0). https://doi.org/10.1016/j.neuron.2021.09.045
+  - Bo et al. (2023). Deconstructing the brain bases of emotion regulation: A systems-identification approach using Bayes factors. In bioRxiv (p. 2023.04.26.538485). [https://doi.org/10.1101/2023.04.26.538485](https://doi.org/10.1101/2023.04.26.538485)
+  - Seymour et al. (2023). Post-injury pain and behaviour: a control theory perspective. Nature Reviews. Neuroscience. [https://doi.org/10.1038/s41583-023-00699-5](https://doi.org/10.1038/s41583-023-00699-5)
+  - Harrison et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron, 0(0). [https://doi.org/10.1016/j.neuron.2021.09.045](https://doi.org/10.1016/j.neuron.2021.09.045)
+  - Pessoa, L. (2017). A Network Model of the Emotional Brain. Trends in Cognitive Sciences, 21(5), 357–371. [https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub)
+
 
 Previously covered:
 - Price2012(R): Neural circuits underlying the pathophysiology of mood disorders, TICS
