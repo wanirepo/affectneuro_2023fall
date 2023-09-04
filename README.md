@@ -74,12 +74,12 @@ Week 5 (9/25) | No class | 건학기념일 | - |
 Week 6 (10/2) | Touch and Nociception | 1) [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI), 2) [Touch and Nociception](https://www.youtube.com/watch?v=oKZElwPTKzg) | Melzack 1999, Tracey 2010 | PP4 (박미주)
 Week 7 (10/9) | No class | 한글날 | - |
 Week 8 (10/16) | Pain | [Pain](https://www.youtube.com/watch?v=XpFLNYj9gtc) | -  | PP5 (박영은) 
-Week 9 (10/23) | Pain regulation | 1) Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) 2) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system (박철현, 이상기, 최지운)| 
+Week 9 (10/23) | Pain regulation | 1) Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) 2) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system (박철현, 이상기)| 
 Week 10 (10/30) | Emotion | [Emotion](https://youtube.com/live/IgvoaKyH8GE) | -  | PP6 (정의진)
 Week 11 (11/6) | Emotion regulation, embodiment | 1) [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8), 2) [Emotion regulation](https://www.youtube.com/watch?v=1miaC6cUobk),  | Gross2011, Ashar2017 | Debate 2: Pleasure systems in the brain (유영준, 양지혜, 이채연)| 
 Week 12 (11/13) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | PP7 (Steve)
 Week 13 (11/20) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 | PP8 (김학인)
-Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9 (이새현)
+Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9
 Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈, Harrison et al.), PP11 (이우경, Bo et al.)
 Week 16 (12/11) | Term paper | - | - | - 
 
@@ -126,7 +126,7 @@ Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/
   - Seymour et al. (2023). Post-injury pain and behaviour: a control theory perspective. Nature Reviews. Neuroscience. [https://doi.org/10.1038/s41583-023-00699-5](https://doi.org/10.1038/s41583-023-00699-5)
   - Harrison et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron, 0(0). [https://doi.org/10.1016/j.neuron.2021.09.045](https://doi.org/10.1016/j.neuron.2021.09.045)
   - Pessoa, L. (2017). A Network Model of the Emotional Brain. Trends in Cognitive Sciences, 21(5), 357–371. [https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub)
-
+  - Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., & Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. Nature Neuroscience, 22(8), 1205–1216. [https://www.nature.com/articles/s41593-019-0456-6](https://www.nature.com/articles/s41593-019-0456-6) 
 
 Previously covered:
 
