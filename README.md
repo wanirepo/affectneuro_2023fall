@@ -125,12 +125,9 @@ Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/
 - [W15: PP11] Bo et al. (2023). Deconstructing the brain bases of emotion regulation: A systems-identification approach using Bayes factors. In bioRxiv (p. 2023.04.26.538485). [https://doi.org/10.1101/2023.04.26.538485](https://doi.org/10.1101/2023.04.26.538485)
 - [W15: PP12] Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., & Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. Nature Neuroscience, 22(8), 1205–1216. [https://www.nature.com/articles/s41593-019-0456-6](https://www.nature.com/articles/s41593-019-0456-6) 
 
-
-  - 
+additional Papers
   - Bennett et al. (2020). A model of mood as integrated advantage. [https://doi.org/10.31234/osf.io/dzsme](https://doi.org/10.31234/osf.io/dzsme)
-  - 
   - Pessoa, L. (2017). A Network Model of the Emotional Brain. Trends in Cognitive Sciences, 21(5), 357–371. [https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub)
-  - 
   - Paulus, M. P., Feinstein, J. S., & Khalsa, S. S. (2019). An Active Inference Approach to Interoceptive Psychopathology. Annual Review of Clinical Psychology, 15, 97–122. [https://www.annualreviews.org/doi/10.1146/annurev-clinpsy-050718-095617](https://www.annualreviews.org/doi/10.1146/annurev-clinpsy-050718-095617)
 
 
