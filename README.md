@@ -79,8 +79,8 @@ Week 10 (10/30) | Emotion | [Emotion](https://youtube.com/live/IgvoaKyH8GE) | - 
 Week 11 (11/6) | Emotion regulation, embodiment | 1) [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8), 2) [Emotion regulation](https://www.youtube.com/watch?v=1miaC6cUobk),  | Gross2011, Ashar2017 | Debate 2: Pleasure systems in the brain (유영준, 양지혜, 이채연)| 
 Week 12 (11/13) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | PP7 (Steve)
 Week 13 (11/20) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 | PP8 (김학인)
-Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9
-Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈, Harrison et al.), PP11 (이우경, Bo et al.)
+Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9 (양지혜)
+Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈), PP11 (이우경), PP12 (최지운)
 Week 16 (12/11) | Term paper | - | - | - 
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
@@ -120,13 +120,17 @@ Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/
 - [W10: PP6] Čeko, M., Kragel, P. A., Woo, C.-W., López-Solà, M., & Wager, T. D. (2022). Common and stimulus-type-specific brain representations of negative affect. Nature Neuroscience, 1–11. [https://www.nature.com/articles/s41593-022-01082-w](https://www.nature.com/articles/s41593-022-01082-w)
 - [W12: PP7] Hsueh et al.(2023). Cardiogenic control of affective behavioural state. Nature, 1–8. [https://www.nature.com/articles/s41586-023-05748-8](https://www.nature.com/articles/s41586-023-05748-8)
 - [W13: PP8] van Kleef, G. A., & Côté, S. (2022). The Social Effects of Emotions. Annual Review of Psychology, 73, 629–658. [https://doi.org/10.1146/annurev-psych-020821-010855](https://doi.org/10.1146/annurev-psych-020821-010855)
-- [W14: PP9] Bennett et al. (2020). A model of mood as integrated advantage. [https://doi.org/10.31234/osf.io/dzsme](https://doi.org/10.31234/osf.io/dzsme)
-- [W15: PP10-?]
-  - Bo et al. (2023). Deconstructing the brain bases of emotion regulation: A systems-identification approach using Bayes factors. In bioRxiv (p. 2023.04.26.538485). [https://doi.org/10.1101/2023.04.26.538485](https://doi.org/10.1101/2023.04.26.538485)
-  - Seymour et al. (2023). Post-injury pain and behaviour: a control theory perspective. Nature Reviews. Neuroscience. [https://doi.org/10.1038/s41583-023-00699-5](https://doi.org/10.1038/s41583-023-00699-5)
-  - Harrison et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron, 0(0). [https://doi.org/10.1016/j.neuron.2021.09.045](https://doi.org/10.1016/j.neuron.2021.09.045)
+- [W14: PP9] Seymour et al. (2023). Post-injury pain and behaviour: a control theory perspective. Nature Reviews. Neuroscience. [https://doi.org/10.1038/s41583-023-00699-5](https://doi.org/10.1038/s41583-023-00699-5)
+- [W15: PP10] Harrison et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron, 0(0). [https://doi.org/10.1016/j.neuron.2021.09.045](https://doi.org/10.1016/j.neuron.2021.09.045)
+- [W15: PP11] Bo et al. (2023). Deconstructing the brain bases of emotion regulation: A systems-identification approach using Bayes factors. In bioRxiv (p. 2023.04.26.538485). [https://doi.org/10.1101/2023.04.26.538485](https://doi.org/10.1101/2023.04.26.538485)
+- [W15: PP12] Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., & Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. Nature Neuroscience, 22(8), 1205–1216. [https://www.nature.com/articles/s41593-019-0456-6](https://www.nature.com/articles/s41593-019-0456-6) 
+
+
+  - 
+  - Bennett et al. (2020). A model of mood as integrated advantage. [https://doi.org/10.31234/osf.io/dzsme](https://doi.org/10.31234/osf.io/dzsme)
+  - 
   - Pessoa, L. (2017). A Network Model of the Emotional Brain. Trends in Cognitive Sciences, 21(5), 357–371. [https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1364661317300360?via%3Dihub)
-  - Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., & Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. Nature Neuroscience, 22(8), 1205–1216. [https://www.nature.com/articles/s41593-019-0456-6](https://www.nature.com/articles/s41593-019-0456-6) 
+  - 
   - Paulus, M. P., Feinstein, J. S., & Khalsa, S. S. (2019). An Active Inference Approach to Interoceptive Psychopathology. Annual Review of Clinical Psychology, 15, 97–122. [https://www.annualreviews.org/doi/10.1146/annurev-clinpsy-050718-095617](https://www.annualreviews.org/doi/10.1146/annurev-clinpsy-050718-095617)
 
 
