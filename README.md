@@ -80,7 +80,7 @@ Week 11 (11/6) | Emotion regulation, embodiment | 1) [James Gross](https://www.y
 Week 12 (11/13) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | PP7 (Steve)
 Week 13 (11/20) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 | PP8 (김학인)
 Week 14 (11/27) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | PP9 (양지혜)
-Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈), PP11 (이우경), PP12 (최지운)
+Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈), PP11 (이우경), PP12 (최지운), PP13 (차영화)
 Week 16 (12/11) | Term paper | - | - | - 
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
@@ -123,7 +123,8 @@ Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/
 - [W14: PP9] Seymour et al. (2023). Post-injury pain and behaviour: a control theory perspective. Nature Reviews. Neuroscience. [https://doi.org/10.1038/s41583-023-00699-5](https://doi.org/10.1038/s41583-023-00699-5)
 - [W15: PP10] Harrison et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron, 0(0). [https://doi.org/10.1016/j.neuron.2021.09.045](https://doi.org/10.1016/j.neuron.2021.09.045)
 - [W15: PP11] Bo et al. (2023). Deconstructing the brain bases of emotion regulation: A systems-identification approach using Bayes factors. In bioRxiv (p. 2023.04.26.538485). [https://doi.org/10.1101/2023.04.26.538485](https://doi.org/10.1101/2023.04.26.538485)
-- [W15: PP12] Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., & Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. Nature Neuroscience, 22(8), 1205–1216. [https://www.nature.com/articles/s41593-019-0456-6](https://www.nature.com/articles/s41593-019-0456-6) 
+- [W15: PP12] Mobbs, D., Adolphs, R., Fanselow, M. S., Barrett, L. F., LeDoux, J. E., Ressler, K., & Tye, K. M. (2019). Viewpoints: Approaches to defining and investigating fear. Nature Neuroscience, 22(8), 1205–1216. [https://www.nature.com/articles/s41593-019-0456-6](https://www.nature.com/articles/s41593-019-0456-6)
+- [W15: PP13] Engelen, T., Solcà, M., & Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. Nature Neuroscience. [https://doi.org/10.1038/s41593-023-01425-1](https://doi.org/10.1038/s41593-023-01425-1) 
 
 additional Papers
   - Bennett et al. (2020). A model of mood as integrated advantage. [https://doi.org/10.31234/osf.io/dzsme](https://doi.org/10.31234/osf.io/dzsme)
