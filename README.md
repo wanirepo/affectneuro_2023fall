@@ -104,7 +104,10 @@ Lectures:
 [Emotion regulation](https://www.youtube.com/watch?v=_6p8aq4zU8Y) by James Gross,
 [Motivation](https://www.youtube.com/watch?v=mTW1qndYwX8) by James Gross,
 [What makes us human?](https://www.youtube.com/watch?v=FwlDLe6O7NE) by Roy Baumeister,
-[Putting Emotion into the Science of Consciousness](https://www.youtube.com/watch?v=b6Ab34llQYc) by Joseph LeDoux, [Neural Self](https://www.youtube.com/watch?v=OvwM6EINGZA) by Antonio Damasio, [Happiness: What Your Mother Didn’t Tell You](https://www.youtube.com/watch?v=7VuKfSdZWlg) by Dan Gilbert, [Social Brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) by Ralph Adolphs; [The Social Brain and the Workplace](https://www.youtube.com/watch?v=h7UR9JwQEYk) by Matthew Lieberman; Richard Davidson
+[Neural Self](https://www.youtube.com/watch?v=OvwM6EINGZA) by Antonio Damasio, 
+[Happiness: What Your Mother Didn’t Tell You](https://www.youtube.com/watch?v=7VuKfSdZWlg) by Dan Gilbert, 
+[Social Brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) by Ralph Adolphs, 
+[The Social Brain and the Workplace](https://www.youtube.com/watch?v=h7UR9JwQEYk) by Matthew Lieberman; Richard Davidson
 
 The Psychology Podcasts:
 Roy Baumeister I: [Identity, the Self, and the Meaning of Life](https://www.youtube.com/watch?v=exqibfFn0c4)
