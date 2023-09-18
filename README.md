@@ -95,11 +95,11 @@ Ralph Adolphs "The neuroscience of emotion"
 ## Some extra lectures
 
 Playlists:
-[June Gruber's Human Emotion Course at Yale](https://www.youtube.com/playlist?list=PLh9mgdi4rNewieO9Dsj-OhNBC9bF4FoRp)
 [June Gruber's Experts in Emotion series at Yale](https://www.youtube.com/watch?v=8PHMR-U9R-g&list=PLh9mgdi4rNew731mjIZn43G_Y5otqKzJA)
 [Stanford Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
 
 Lectures:
+[How opioids affect well-being](https://www.youtube.com/watch?v=zVRJ4WEeAkk) by Siri Leknes, 
 [Willpower: Self-Control, Decision Fatigue, and Energy Depletion](https://www.youtube.com/watch?v=KfnUicHDNM8) by Roy Baumeister,
 [Emotion regulation](https://www.youtube.com/watch?v=_6p8aq4zU8Y) by James Gross,
 [Motivation](https://www.youtube.com/watch?v=mTW1qndYwX8) by James Gross,
