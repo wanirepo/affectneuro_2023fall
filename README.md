@@ -58,7 +58,7 @@ Please submit your discussion questions and comments for each video lecture thro
 
 ## Term project
 
-Develop your own research idea related to affective neuroscience. You can choose any topic within the area of affective neuroscience. You will have two times of presentation opportunity--one for research background (similar to the introduction section of a research article), and the other for experimental design (similar to the method section of a research article). If you are conducting research projects for your dissertation, you can use this as an opportunity to write parts of your dissertation. I am also considering forming teams (of one graduate student and one undergrad student). Let's discuss this in the class.
+Develop your own research idea related to affective neuroscience. You can choose any topic within the area of affective neuroscience. If you are conducting research projects for your dissertation, you can use this as an opportunity to write parts of your dissertation. As you know, research articles usually consist of four components; 1) Introduction, 2) Methods, 3) Results, and 4) Discussion. You need to submit at least two sections of the article. For example, 1) Introduction + 2) Methods (this will be the standard), 1) Introduction + 3) Results, 1) Introduction + 4) Discussion, or 2) Methods + 3) Results, etc. As I announced in the class, each undergrad student will be paired with one graduate student (you need to submit one paper with two names). 
 
 
 
