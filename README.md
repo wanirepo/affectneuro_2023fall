@@ -56,11 +56,23 @@ C: > 70
 
 Please submit your discussion questions and comments for each video lecture through [this google form](https://forms.gle/JqmR8zt5ePmZ3XY37)
 
-## Term project
+## Term project (Due: 12/15 midnight)
 
-Develop your own research idea related to affective neuroscience. You can choose any topic within the area of affective neuroscience. If you are conducting research projects for your dissertation, you can use this as an opportunity to write parts of your dissertation. As you know, research articles usually consist of four components; 1) Introduction, 2) Methods, 3) Results, and 4) Discussion. You need to submit at least two sections of the article. For example, 1) Introduction + 2) Methods (this will be the standard), 1) Introduction + 3) Results, 1) Introduction + 4) Discussion, or 2) Methods + 3) Results, etc. As I announced in the class, each undergrad student will be paired with one graduate student (you need to submit one paper with two names). 
+Develop your own research idea related to affective neuroscience. You can choose any topic within the area of affective neuroscience. If you are conducting research projects for your dissertation, you can use this as an opportunity to write parts of your dissertation. As you know, research articles usually consist of four components: 1) Introduction, 2) Methods, 3) Results, and 4) Discussion. You need to submit at least two sections of the article. For example, 1) Introduction + 2) Methods (this will be the standard), 1) Introduction + 3) Results, 1) Introduction + 4) Discussion, or 2) Methods + 3) Results, etc. As I announced in the class, each undergrad student will be paired with one graduate student (you need to submit one paper with two names).
 
+The undergrad + grad student pairs are as follows. If you're not on the list, you should work alone. :)
 
+민주-린
+영솔-의진
+영준-지운
+준보-학인
+철현-재성
+상기-지혜
+가은-영은
+Steve-나현
+채연-미주
+
+The due date is 12/15 (Friday) at midnight.
 
 ## Schedule 
 
