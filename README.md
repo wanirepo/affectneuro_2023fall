@@ -62,15 +62,7 @@ Develop your own research idea related to affective neuroscience. You can choose
 
 The undergrad + grad student pairs are as follows. If you're not on the list, you should work alone. :)
 
-민주-린
-영솔-의진
-영준-지운
-준보-학인
-철현-재성
-상기-지혜
-가은-영은
-Steve-나현
-채연-미주
+민주-린 / 영솔-의진 / 영준-지운 / 준보-학인 / 철현-재성 / 상기-지혜 / 가은-영은 / Steve-나현 / 채연-미주
 
 The due date is 12/15 (Friday) at midnight.
 
@@ -92,7 +84,7 @@ Week 11 (11/6) | Emotion regulation, embodiment | 1) [James Gross](https://www.y
 Week 12 (11/13) | Culture | 1) [Jeanne Tsai, How Culture Influences Our Emotions (and Why it Matters)](https://youtu.be/ak8eVjpNpfE?si=S5W4H1OrCAoNUf92), 2) [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | - | PP7 (Steve)
 Week 13 (11/20) | Social brain, empathy | 1) [Christian Keysers, Neural Basis of Empathy and Prosociality across Species](https://youtu.be/VMXdKUmh-k8?t=132), 2) [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) one with slides [link](https://www.youtube.com/watch?v=c8lRCXQDUWM&t=1s)| Reeck2015, Zaki2012 | PP8 (김학인)
 Week 14 (11/27) | Happiness, positive emotions | 1) [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be), 2) [Morten L. Kringelbach, Eudaimonia and Hedonia: Brain systems for thriving and surviving](https://www.youtube.com/watch?v=F40ieWDaZUw) | - | PP9 (양지혜)
-Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈), PP11 (이우경), PP12 (최지운), PP13 (차영화)
+Week 15 (12/4) | Rest of paper presentations | - | - | PP10 (윤재빈), PP11 (이우경), [PP12 (최지운)](https://youtu.be/tsVsayas3XI?si=RW_HFIDhbiVnWkhg), PP13 (차영화)
 Week 16 (12/11) | Term paper | - | - | - 
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
